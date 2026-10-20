@@ -76,7 +76,7 @@ Instalacja oprogramowania / Procedura przywracania
 > Dodałem pakiet [luci-app-exigo-hub-d50-5g-nss](https://github.com/4IceG/luci-app-exigo-hub-d50-5g-nss/tree/main) (wstępnie ustawia router i moje pakiety, steruje LED-ami 4G i 5G).
 
 + #### Modem requires following packages to work in pcie mode / Modem do działania w pcie wymaga pakietów
-> [Quectel-wwan-mini](https://github.com/4IceG/Quectel-wwan-mini-nss) (mhi_q & quectel-cm & luci-proto-quectel) + [luci-app-exigo-hub-d50-5g-nss](https://github.com/4IceG/luci-app-exigo-hub-d50-5g-nss)
+> [Quectel-wwan-mini](https://github.com/4IceG/Quectel-wwan-mini) (mhi_q & quectel-cm & luci-proto-quectel) + [luci-app-exigo-hub-d50-5g-nss](https://github.com/4IceG/luci-app-exigo-hub-d50-5g-nss)
 
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Preview / <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Podgląd
 Coming soon.. / Niebawem..
