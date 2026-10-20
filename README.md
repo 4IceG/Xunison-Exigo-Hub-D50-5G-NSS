@@ -82,6 +82,5 @@ Instalacja oprogramowania / Procedura przywracania
 Coming soon.. / Niebawem..
 
 ## <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Thanks to / <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Podziękowania dla
-- [obsy (Cezary Jackiewicz)](https://github.com/obsy)
 - [kuncy7](https://github.com/kuncy7)
 - [LS3434](https://github.com/LS3434)
