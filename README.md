@@ -1,5 +1,5 @@
 # Xunison-Exigo-Hub-D50-5G-NSS
-My OpenWrt SNAPSHOT / LuCI Main build for the Xunison Exigo Hub D50 5G router [Build: 24.10.2026].
+My OpenWrt SNAPSHOT / LuCI Main build for the Xunison Exigo Hub D50 5G router [Build: 25.10.2026].
 
 <p align="center">
 <img src="https://github.com/4IceG/Personal_data/blob/master/xunisondevb.png?raw=true" />
@@ -61,10 +61,8 @@ Instalacja oprogramowania / Procedura przywracania
 
 + #### User's own configuration / Konfiguracja przez użytkownika
 > The user must configure on his own:
-- interface for modem (Quectel >> requires APN settings and checked option "Bring up on boot")
 - set up Wi-Fi/passwords
 > Użytkownik musi skonfigurować we własnym zakresie:
-- interfejs dla modemu (Quectel >> wymaga ustawienia apn i zaznaczenia opcji autostartu połączenia)
 - skonfigurować Wi-Fi/hasła
 
 + #### LuCI theme / Motyw LuCI
@@ -76,7 +74,7 @@ Instalacja oprogramowania / Procedura przywracania
 > Dodałem pakiet [luci-app-exigo-hub-d50-5g-nss](https://github.com/4IceG/luci-app-exigo-hub-d50-5g-nss/tree/main) (wstępnie ustawia router i moje pakiety, steruje LED-ami 4G i 5G).
 
 + #### Modem requires following packages to work in pcie mode / Modem do działania w pcie wymaga pakietów
-> [Quectel-wwan-mini](https://github.com/4IceG/Quectel-wwan-mini) (mhi_q & quectel-cm & luci-proto-quectel) + [luci-app-exigo-hub-d50-5g-nss](https://github.com/4IceG/luci-app-exigo-hub-d50-5g-nss)
+> [Quectel-wwan-mini](https://github.com/4IceG/Quectel-wwan-mini) (mhi_q) + [luci-app-exigo-hub-d50-5g-nss](https://github.com/4IceG/luci-app-exigo-hub-d50-5g-nss)
 
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Preview / <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Podgląd
 Coming soon.. / Niebawem..
