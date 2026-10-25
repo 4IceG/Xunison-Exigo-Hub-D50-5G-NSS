@@ -10,12 +10,21 @@ My OpenWrt SNAPSHOT / LuCI Main build for the Xunison Exigo Hub D50 5G router [B
 ![GitHub forks](https://img.shields.io/github/forks/4IceG/Xunison-Exigo-Hub-D50-5G-NSS?style=flat-square)
 ![GitHub All Releases](https://img.shields.io/github/downloads/4IceG/Xunison-Exigo-Hub-D50-5G-NSS/total)
 
+### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Languages ​​available in test images / <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Dostępne języki w obrazach testowych
+
+<img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="36" title="Polish (Polski)" alt="Polish language" /> <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="36" title="Enlish (Angielski)" alt="English language" />
+<!--
+
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Languages available / <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Dostępne języki
 
 <img src="https://hatscripts.github.io/circle-flags/flags/cz.svg" width="36" title="Czech (Čeština)" alt="Czech language" /> <img src="https://hatscripts.github.io/circle-flags/flags/dk.svg" width="36" title="Danish (Dansk)" alt="Danish language" /> <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="36" title="German (Deutsch)" alt="German language" /> 
 <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="36" title="Spanish (Español)" alt="Spanish language" /> <img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="36" title="French (Français)" alt="French language" /> <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="36" title="Italian (Italiano)" alt="Italian language" /> 
 <img src="https://hatscripts.github.io/circle-flags/flags/jp.svg" width="36" title="Japanese (日本語)" alt="Japanese language" /> <img src="https://hatscripts.github.io/circle-flags/flags/kr.svg" width="36" title="Korean (한국어)" alt="Korean language" /> <img src="https://hatscripts.github.io/circle-flags/flags/nl.svg" width="36" title="Dutch (Nederlands)" alt="Dutch language" /> 
 <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="36" title="Polish (Polski)" alt="Polish language" /> <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="36" title="Brazilian Portuguese (Português Brasil)" alt="Brazilian Portuguese language" /> <img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="36" title="Russian (Русский)" alt="Russian language" /> <img src="https://hatscripts.github.io/circle-flags/flags/vn.svg" width="36" title="Vietnamese (Tiếng Việt)" alt="Vietnamese language" /> <img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" width="36" title="Simplified Chinese (简体中文)" alt="Simplified Chinese language" /> <img src="https://hatscripts.github.io/circle-flags/flags/tw.svg" width="36" title="Traditional Chinese (繁體中文 - 台灣)" alt="Traditional Chinese language" /> <img src="https://hatscripts.github.io/circle-flags/flags/hk.svg" width="36" title="Traditional Chinese (繁體中文 - 香港)" alt="Traditional Chinese language" />
+
+-->
+
+
 
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> OpenWrt installation procedure / <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Procedura instalacji OpenWrt
 
@@ -74,7 +83,7 @@ Instalacja oprogramowania / Procedura przywracania
 > Dodałem pakiet [luci-app-exigo-hub-d50-5g-nss](https://github.com/4IceG/luci-app-exigo-hub-d50-5g-nss/tree/main) (wstępnie ustawia router i moje pakiety, steruje LED-ami 4G i 5G).
 
 + #### Modem requires following packages to work in pcie mode / Modem do działania w pcie wymaga pakietów
-> [Quectel-wwan-mini](https://github.com/4IceG/Quectel-wwan-mini) (mhi_q) + [luci-app-exigo-hub-d50-5g-nss](https://github.com/4IceG/luci-app-exigo-hub-d50-5g-nss)
+> [Quectel-wwan-mini](https://github.com/4IceG/Quectel-wwan-mini) (mhi_q + rmnet-nss) + [luci-app-exigo-hub-d50-5g-nss](https://github.com/4IceG/luci-app-exigo-hub-d50-5g-nss)
 
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> Preview / <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Podgląd
 Coming soon.. / Niebawem..
