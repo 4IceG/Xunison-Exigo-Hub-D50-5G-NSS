@@ -2816,7 +2816,7 @@ msgstr "Karta SIM w slocie %d zainicjowana ponownie."
 
 #: htdocs/luci-static/resources/wwand/esim.js:235
 msgid "SIM overrides"
-msgstr "Nadpisania SIM"
+msgstr "Przypisane SIM"
 
 #: htdocs/luci-static/resources/view/wwand/modems.js:325
 msgid "SIM re-initialisation failed: %s."
@@ -2843,7 +2843,7 @@ msgstr ""
 
 #: htdocs/luci-static/resources/wwand/simlist.js:103
 msgid "SIMs (per-ICCID overrides)"
-msgstr "SIM (nadpisania według ICCID)"
+msgstr "SIM (Przypisane według ICCID)"
 
 #: htdocs/luci-static/resources/wwand/graph.js:153
 msgid "SINR 5G"
