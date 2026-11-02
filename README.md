@@ -79,8 +79,8 @@ Instalacja oprogramowania / Procedura przywracania
 > Główny motyw: Bootstrap.
 
 + #### My modifications / Moje modyfikacje
-> I installed the [luci-app-exigo-hub-d50-5g-nss](https://github.com/4IceG/luci-app-exigo-hub-d50-5g-nss/tree/main) package (it configures router and my packages, controls 4G and 5G LEDs).   
-> Dodałem pakiet [luci-app-exigo-hub-d50-5g-nss](https://github.com/4IceG/luci-app-exigo-hub-d50-5g-nss/tree/main) (wstępnie ustawia router i moje pakiety, steruje LED-ami 4G i 5G).
+> I installed the [luci-app-exigo-hub-d50-5g-nss](https://github.com/4IceG/luci-app-exigo-hub-d50-5g-nss/tree/main) package (it configures router and my packages).   
+> Dodałem pakiet [luci-app-exigo-hub-d50-5g-nss](https://github.com/4IceG/luci-app-exigo-hub-d50-5g-nss/tree/main) (wstępnie ustawia router i moje pakiety).
 
 + #### Modem requires following packages to work in pcie mode / Modem do działania w pcie wymaga pakietów
 > [Quectel-mhi-NSS-drivers-for-6.18-kernel](https://github.com/LS3434/Quectel-mhi-NSS-drivers-for-6.18-kernel) (mhi_q + rmnet-nss) + [wwand](https://github.com/ddimension/wwand) + [luci-app-exigo-hub-d50-5g-nss](https://github.com/4IceG/luci-app-exigo-hub-d50-5g-nss)
