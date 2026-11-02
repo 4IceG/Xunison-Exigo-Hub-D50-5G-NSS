@@ -4897,3 +4897,7 @@ msgstr ""
 "na to pozwala. Puste pole = pozostaw kolejność modemu bez zmian. Zapisanie zmiany "
 "powoduje ponowne uruchomienie modemu, co powoduje krótkotrwałe przerwanie połączenia. Aktualna "
 "kolejność jest wyświetlana i można ją zmieniać na bieżąco w sekcji Narzędzia modemu."
+
+#: htdocs/luci-static/resources/view/wwand/settings.js:1167
+msgid "Applied, except the RAT priority: the modem accepted it and kept its own order. Its firmware does not take a priority this way."
+msgstr "Zastosowano, z wyjątkiem priorytetu RAT: modem zaakceptował to i zachował własną kolejność. Jego oprogramowanie sprzętowe nie uwzględnia priorytetu w ten sposób."
